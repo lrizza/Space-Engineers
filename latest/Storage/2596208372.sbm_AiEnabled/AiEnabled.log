@@ -1,0 +1,7 @@
+[20:07:07.568] [T1] [DS=False] DEBUG | Log Started (v1.7.9)
+[20:07:07.568] [T1] [DS=False] DEBUG | EEM Mod found. Spawns will be delayed until EEM faction validation passes.
+[20:07:07.590] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[20:07:07.602] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[20:07:16.551] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[20:07:40.733] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[20:07:40.756] [T1] [DS=False] DEBUG | Mod unloaded successfully
