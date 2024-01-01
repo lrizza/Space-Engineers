@@ -1,0 +1,8 @@
+[17:03:04.280] [T1] [DS=False] DEBUG | Log Started (v1.7.9)
+[17:03:04.281] [T1] [DS=False] DEBUG | EEM Mod found. Spawns will be delayed until EEM faction validation passes.
+[17:03:04.290] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[17:03:04.297] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[17:03:04.409] [T1] [DS=False] DEBUG | Faction cleanup: Removing 4/5 members from Space Pirates
+[17:03:14.179] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[17:14:04.109] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[17:14:04.138] [T1] [DS=False] DEBUG | Mod unloaded successfully
