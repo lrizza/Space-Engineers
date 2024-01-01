@@ -1,0 +1,9 @@
+[05:41:54.452] [T1] [DS=False] DEBUG | Log Started (v1.7.9)
+[05:41:54.453] [T1] [DS=False] DEBUG | EEM Mod found. Spawns will be delayed until EEM faction validation passes.
+[05:41:54.464] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[05:41:54.468] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[05:41:54.569] [T1] [DS=False] DEBUG | Faction cleanup: Removing 6/7 members from [AiE] Nomads
+[05:42:03.414] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[05:59:25.637] [T1] [DS=False] DEBUG | Mod setup completed in 0H 16M 11.52S
+[06:33:08.269] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[06:33:08.294] [T1] [DS=False] DEBUG | Mod unloaded successfully
