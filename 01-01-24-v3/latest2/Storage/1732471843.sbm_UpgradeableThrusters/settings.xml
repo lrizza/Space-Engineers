@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<UpgradeableThrusterSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2</Version>
+  <Revision>1</Revision>
+  <UseGenericMuliplier>false</UseGenericMuliplier>
+  <ThrustUpgradeMultiplier>1</ThrustUpgradeMultiplier>
+  <PowerUpgradeMultiplier>0.9</PowerUpgradeMultiplier>
+  <Tier1ThrustMultiplier>2</Tier1ThrustMultiplier>
+  <Tier1PowerMultiplier>1.8</Tier1PowerMultiplier>
+  <Tier2ThrustMultiplier>4</Tier2ThrustMultiplier>
+  <Tier2PowerMultiplier>3.6</Tier2PowerMultiplier>
+  <Tier3ThrustMultiplier>8</Tier3ThrustMultiplier>
+  <Tier3PowerMultiplier>7.2</Tier3PowerMultiplier>
+  <Tier4ThrustMultiplier>16</Tier4ThrustMultiplier>
+  <Tier4PowerMultiplier>14.4</Tier4PowerMultiplier>
+</UpgradeableThrusterSettings>
