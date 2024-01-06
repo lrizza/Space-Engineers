@@ -1,0 +1,13 @@
+[00:52:25.770] [T1] [DS=False] DEBUG | Log Started (v1.7.9)
+[00:52:25.771] [T1] [DS=False] DEBUG | EEM Mod found. Spawns will be delayed until EEM faction validation passes.
+[00:52:25.787] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[00:52:25.791] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[00:52:25.898] [T1] [DS=False] DEBUG | Faction cleanup: Removing 4/5 members from Space Pirates
+[00:52:25.898] [T1] [DS=False] DEBUG | Faction cleanup: Removing 2/4 members from Space spiders
+[00:52:25.898] [T1] [DS=False] DEBUG | Faction cleanup: Removing 4/5 members from Raiders
+[00:52:36.957] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[01:11:03.007] [T1] [DS=False] DEBUG | Mod setup completed in 0H 17M 37.92S
+[01:27:55.646] [T1] [DS=False] WARNING | Something attempted to spawn 'ANC_Queen_Guard' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[01:27:57.313] [T1] [DS=False] WARNING | Something attempted to spawn 'ANC_Queen_Guard' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[01:33:46.994] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[01:33:47.021] [T1] [DS=False] DEBUG | Mod unloaded successfully
