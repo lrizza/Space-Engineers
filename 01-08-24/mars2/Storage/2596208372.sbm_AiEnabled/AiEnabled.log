@@ -1,0 +1,13 @@
+[21:51:29.805] [T1] [DS=False] DEBUG | Log Started (v1.7.9)
+[21:51:29.815] [T1] [DS=False] DEBUG | EEM Mod found. Spawns will be delayed until EEM faction validation passes.
+[21:51:29.825] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[21:51:29.829] [T1] [DS=False] DEBUG | Defense Shields Mod found. API loaded successfully = True
+[21:51:43.739] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[22:22:13.824] [T1] [DS=False] DEBUG | Mod setup completed in 0H 15M 42.72S
+[22:24:26.947] [T1] [DS=False] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:52:47.479] [T1] [DS=False] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:52:50.751] [T1] [DS=False] WARNING | Something attempted to spawn 'Explorer Astronaut' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[22:52:53.828] [T1] [DS=False] WARNING | Something attempted to spawn 'Next Gen Engineer' which is not included in the AllowedBotSubtypes. Spawn aborted.
+[23:06:02.104] [T1] [DS=False] DEBUG | Closing 7 bot(s) before unload
+[23:06:02.800] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[23:06:02.835] [T1] [DS=False] DEBUG | Mod unloaded successfully
